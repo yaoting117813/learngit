@@ -1,0 +1,4 @@
+spark-core
+spark-sql
+spark-streaming
+spark-graphx
